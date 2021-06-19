@@ -1,0 +1,12 @@
+{
+  "name": "wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "commander": "^7.2.0",
+    "pbkdf2-hmac": "^1.0.2",
+    "read": "^1.0.7"
+  }
+}
